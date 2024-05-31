@@ -1,0 +1,28 @@
+{
+  "name": "chat-agent-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx main.ts "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.57",
+    "@langchain/core": "^0.1.63",
+    "@langchain/langgraph": "^0.0.12",
+    "@langchain/openai": "^0.0.29",
+    "@mendable/firecrawl-js": "^0.0.13",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.37",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
