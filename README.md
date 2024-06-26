@@ -1,3 +1,10 @@
+---
+title: "Simple Rag Agent with Ollama and LangGraph"
+excerpt: "Build a simple Rag agent that can decide based on the user's input if it needs to search the web or can find the answer from the documents avaiable to it."
+date: "2024-06-19"
+tech: "NodeJs, Typescript, OpenAI, Langchain, LangGraph, Ollama, FireCrawler, Tavily"
+---
+
 # Ollama + LangraphJs Agents
 
 Tried out the capability of Langhgraph with Ollama, and built a rag agent, with different state. Its like State Machine, where each state can transition into a different state on certain actions.
