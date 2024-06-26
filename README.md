@@ -1,8 +1,8 @@
 ---
-title: "Simple Rag Agent with Ollama and LangGraph"
-excerpt: "Build a simple Rag agent that can decide based on the user's input if it needs to search the web or can find the answer from the documents avaiable to it."
-date: "2024-06-19"
-tech: "NodeJs, Typescript, OpenAI, Langchain, LangGraph, Ollama, FireCrawler, Tavily"
+Title: "Simple Rag Agent with Ollama and LangGraph"
+Excerpt: "Build a simple Rag agent that can decide based on the user's input if it needs to search the web or can find the answer from the documents avaiable to it."
+Date: "2024-06-19"
+Tech: "NodeJs, Typescript, OpenAI, Langchain, LangGraph, Ollama, FireCrawler, Tavily"
 ---
 
 # Ollama + LangraphJs Agents
